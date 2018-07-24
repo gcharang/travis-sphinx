@@ -132,7 +132,7 @@ Usage: travis-sphinx build [OPTIONS]
 
 Options:
   -s, --source DIRECTORY  Source directory of sphinx docs  [default:
-                          doc/source]
+                          docs/source]
   -n, --nowarn BOOLEAN    Do not error on warnings
   --help                  Show this message and exit.
 
